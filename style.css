@@ -1,0 +1,27 @@
+body {
+    background: #fefefe;
+}
+section{
+    background: #ffffff;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: #1d1285;
+}
+h2{
+    color: #1460aa;
+}
+.hotpink-header {
+    color: hotpink;
+}
+#top {
+    background: #59c97d;
+}
+nav a {
+    color: yellow;
+}
+a {
+    color: red;
+}
