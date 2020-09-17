@@ -28,3 +28,8 @@ a {
 .blue-header {
   color: #accacc;
 }
+.navigation{
+  background:rgb(71,138,5);
+  padding: 16px;
+  border-radius: 8px;
+}
