@@ -42,3 +42,14 @@ a {
   background: yellow;
   color: #000;
 }
+.week-summary{
+  padding: 16px;
+  border: 1px #ccc solid;
+  margin-bottom: 16px;
+}
+.week-summary__title{
+  color:#21a179;
+}
+.week-summary__heading{
+  color: #92140c;
+}
