@@ -43,8 +43,8 @@ a {
   color: #000;
 }
 .week-summary{
-  padding: 16px;
-  border: 1px #ccc solid;
+  padding: 25px;
+  border: 1px #92140c solid;
   margin-bottom: 16px;
 }
 .week-summary__title{
@@ -52,4 +52,11 @@ a {
 }
 .week-summary__heading{
   color: #92140c;
+}
+.week-summary__title--js{
+  color:#1d1285;
+}
+.main{
+  max-width: 1000px;
+  margin:0 auto;
 }

@@ -3,3 +3,5 @@ const age = "46";
 const nieDoWiary = "Nie wierzę że aż tyle";
 alert("Cześć");
 console.log(`Mam na imie ${name} i mam ${age} lat.`);
+const emptyParagraph = document.querySelector('.week-summary__title--js');
+emptyParagraph.innerHTML(`Nawet uzupełniłem treśc javaScriptem`);
