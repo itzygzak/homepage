@@ -6,6 +6,9 @@ html {
   } 
 body {
   background: #fefefe;
+  background-color: #85FFBD;
+  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+  
 }
 section {
   background: #ffffff;
@@ -38,6 +41,10 @@ a {
   background:rgb(71,138,5);
   padding: 16px;
   border-radius: 8px;
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+  align-items: center;
 }
 .navigation__link{
   color:#fff;
