@@ -37,6 +37,12 @@ a {
 .blue-header {
   color: #accacc;
 }
+.header{
+  background: fff;
+}
+.header-link{
+  color: 04ac26;
+}
 .navigation{
   background:rgb(71,138,5);
   padding: 16px;
@@ -79,4 +85,17 @@ a {
 }
 .notatki{
   background: #92140c;
+}
+.about{
+
+}
+.about__heading{
+  color: purple;
+}
+.about__link{
+  color: blue;
+}
+.about__picture{
+  display: block;
+  max-width: 100%;
 }
