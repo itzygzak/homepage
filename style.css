@@ -89,14 +89,14 @@ a {
   background: #92140c; }
 
 .about__heading {
-  color: purple; }
-
-.about__link {
-  color: blue; }
+  color: #1d1285; }
 
 .about__picture {
   display: block;
   max-width: 100%; }
+
+.about__link {
+  color: blue; }
 
 @media (min-width: 768) {
   .navigation {

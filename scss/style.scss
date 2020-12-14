@@ -91,18 +91,19 @@ html {
     background: #92140c;
   }
   .about{
+    &__heading{
+      color:#1d1285;
+    }
+    &__picture{
+      display: block;
+      max-width: 100%;
+    }
+  }
   
-  }
-  .about__heading{
-    color: purple;
-  }
   .about__link{
     color: blue;
   }
-  .about__picture{
-    display: block;
-    max-width: 100%;
-  }
+  
   @media (min-width: 768){
     .navigation{
       padding: 16px;
